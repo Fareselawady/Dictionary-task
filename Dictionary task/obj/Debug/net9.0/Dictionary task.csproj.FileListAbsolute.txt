@@ -1,0 +1,14 @@
+D:\dotnet\c# projects\New folder\Dictionary task\Dictionary task\bin\Debug\net9.0\Dictionary task.exe
+D:\dotnet\c# projects\New folder\Dictionary task\Dictionary task\bin\Debug\net9.0\Dictionary task.deps.json
+D:\dotnet\c# projects\New folder\Dictionary task\Dictionary task\bin\Debug\net9.0\Dictionary task.runtimeconfig.json
+D:\dotnet\c# projects\New folder\Dictionary task\Dictionary task\bin\Debug\net9.0\Dictionary task.dll
+D:\dotnet\c# projects\New folder\Dictionary task\Dictionary task\bin\Debug\net9.0\Dictionary task.pdb
+D:\dotnet\c# projects\New folder\Dictionary task\Dictionary task\obj\Debug\net9.0\Dictionary task.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\c# projects\New folder\Dictionary task\Dictionary task\obj\Debug\net9.0\Dictionary task.AssemblyInfoInputs.cache
+D:\dotnet\c# projects\New folder\Dictionary task\Dictionary task\obj\Debug\net9.0\Dictionary task.AssemblyInfo.cs
+D:\dotnet\c# projects\New folder\Dictionary task\Dictionary task\obj\Debug\net9.0\Dictionary task.csproj.CoreCompileInputs.cache
+D:\dotnet\c# projects\New folder\Dictionary task\Dictionary task\obj\Debug\net9.0\Dictionary task.dll
+D:\dotnet\c# projects\New folder\Dictionary task\Dictionary task\obj\Debug\net9.0\refint\Dictionary task.dll
+D:\dotnet\c# projects\New folder\Dictionary task\Dictionary task\obj\Debug\net9.0\Dictionary task.pdb
+D:\dotnet\c# projects\New folder\Dictionary task\Dictionary task\obj\Debug\net9.0\Dictionary task.genruntimeconfig.cache
+D:\dotnet\c# projects\New folder\Dictionary task\Dictionary task\obj\Debug\net9.0\ref\Dictionary task.dll
